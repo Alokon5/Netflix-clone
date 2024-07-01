@@ -17,7 +17,7 @@ const navigate = useNavigate();
 }
 
   return (
-    <div className=' absolute flex justify-between items-center z-50 p-4 w-screen '>
+    <div className=' absolute flex justify-between items-center z-50 p-2 w-screen '>
       <NavLink to={'/'}><h1 className=' text-xl lg:text-5xl font-bold text-red-600 cursor-pointer'>NETFLIX</h1></NavLink>
      <div> 
       {
